@@ -42,9 +42,15 @@
     - Hamburg
     - Munchen, Bonn, Berlin
     - Bamberg
-    - Zurich (der Scweiz) (Switzerland)
+    - Zurich (der Schweiz) (Switzerland)
     - Wein (Osterreich)
-    NOTE: Scweiz is an exception whic is follows "der" article. Most country and places uses "das" article.
+    
+    **NOTE**: 
+    1. Scweiz is an exception which follows "der" article. Most countries and places use "das" articles.
+    2. Examples:
+        - der Schweiz
+        - der Turkei
+        - dem Iran
 
 - Wo ist Berlin/ Munchen?
     - Berlin ist in Deutschland/ Bayern
@@ -84,17 +90,17 @@
         - Die Musik kommt aus Frankreich.
         - Muskik funf kommt aus Osterreich.
 - Excercise II
-A. Sie
-B. Ich, Sie
-A. Ich
-B. Sie (official form)
-A. Ich
-
-A. du
-B. ich, du
-A. Ich
-B. du
-A. Ich
+    - A. Sie
+    - B. Ich, Sie
+    - A. Ich
+    - B. Sie (official form)
+    - A. Ich
+    - =========
+    - A. du
+    - B. ich, du
+    - A. Ich
+    - B. du
+    - A. Ich
 
 - Home-Work
     - Du form/ Sie-form

@@ -26,6 +26,6 @@
 - cybercrime as a service when it is monetized.
 
 ## Why ML?
-- ML is becoming more uqbiquitous
+- ML is becoming more ubiquitous
 - 
 
