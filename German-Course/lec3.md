@@ -13,7 +13,7 @@
 - Wei geht's 
     - used in both sie/du form
     - However, Du-form is
-        - A: Wie geht er dir?
+        - A: Wie geht es dir?
         - B: Danke, gut. Und wie geht es dir? (Und dir?)
         - A: Auch gut, danke.
     - Sie form
@@ -101,14 +101,25 @@
 
 - Verbs (Personal Pronoun)
     - 1st person
-        - Singular: ich
-        - Pluaral: wir
+        - Singular: ich (I)
+        - Pluaral: wire (we)
     - 2nd person
-        - Singular: du, Sie
-        - Pluaral: ihr. Sie
+        - Singular: du (you; informal), Sie
+        - Pluaral: ihr (you all; informal), Sie
+        - Examples (informal):
+            - Max, wo wohnt du?
+            - Max and Julia, wo wohnt ihr?
+        - Examples (formal):
+            - Herr Muller wo wohnen Sie? 
+            - Herr und Frau Muller wo wonen Sie?
     - 3st person
-        - Singular: er, sie, es
+        - Singular: er (Male), sie (Female), es (neutral)
         - Pluaral: sie
+        - Example:
+            - Das ist Michael. Er wohnt in London.
+            - Das ist mein Buch. Es ist alt.
 
-- Do online exercise:
+
+- Do online exercise
     - nothing to upload
+    - asd

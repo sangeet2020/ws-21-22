@@ -7,7 +7,6 @@
         - halsschmerzen
         - Au
     2. hast
-        - 
     3. ist
     4. sind
     5. sind
@@ -38,34 +37,34 @@
 
 - Audio 1
     1. 
-        - C
-        - journalisten
-        - Einsp
-        - Bonn
-        - kinder
-        - verheiratet
-        - architekt
+    - C
+    - journalisten
+    - Einsp
+    - Bonn
+    - kinder
+    - verheiratet
+    - architekt
     2.  
-        - B
-        - komst aus der Scheiz
-        - koln
-        - kinder
-        - journsliast
+    - B
+    - komst aus der Scheiz
+    - koln
+    - kinder
+    - journsliast
     3. 
-        - berlin
-        - 20
-        - it
-        - verheiratet
-        - nicht verheiratet (not married)
+    - berlin
+    - 20
+    - it
+    - verheiratet
+    - nicht verheiratet (not married)
     4. 
-        - Berlin (Nadine wohnt In Berlin)
-        - Belgian (ich komme aus)
-        - 20 jahr alt
-        - verheiratet
-        - marketing
-        - Nein, sie ist nicht verheiratet
-        - ein Praktikum machen
-    - getrennt (separated)
+    - Berlin (Nadine wohnt In Berlin)
+    - Belgian (ich komme aus)
+    - 20 jahr alt
+    - verheiratet
+    - marketing
+    - Nein, sie ist nicht verheiratet
+    - ein Praktikum machen
+- getrennt (separated)
 
 - Audio 3
     - Ich bin Historikerin
