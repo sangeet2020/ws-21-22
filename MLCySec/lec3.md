@@ -8,4 +8,4 @@
 - Activation function
 - Layers i.e. fully connected and convolutional layer
 
-##
+*Check NNIA* notes
