@@ -41,6 +41,7 @@ Ich komme aus Ranchi.  Das legit in Indien. Jetzt lebe ich in Deutchland, in Saa
 - der Tische (e)
 - der Schrank/Schranke
 - der Teppich (e)
+- die Tasche
 
 - Tisch ist schon 
 - Tisch zu gross (too big)

@@ -1,7 +1,7 @@
 # Lecture 6
 
 - Count backwards
-    - ruckwarts
+  - ruckwarts
 
 ```
 +plus             -minus        x-mal       /durch [doish]      = ist (gleich)
@@ -15,18 +15,20 @@
 13 * 3 = 39     :: dreizehn mal drei is dreiundneunzig
 58+36=94        :: achtundfunfzig plus sechunddreizig ist vierundneunzig  
 ```
+
 - Wohnort
-    - living place
+  - living place
 - Asking for profession?
-    - Was bist du von Beruf? or Was macht du beruflich
+  - Was bist du von Beruf? or Was macht du beruflich
 - Familienstand
-    - family status
+  - family status
 - Haben Sie kinder?
-    - How many children do u have?
+  - How many children do u have?
 - The verbs are
-    - Die Verben sind
+  - Die Verben sind
 
 ```
 Ich heisse Sangeet Sagar und komme aus Indien. Ich wohne in Saarbrucken und habe einen StudentenJob. Ich bin 25 jahre alt, Single und habe keine kinder.
 ```
+
 - online exercise.

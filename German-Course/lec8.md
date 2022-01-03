@@ -25,3 +25,6 @@
 - Enkelin: GrandSon
 - Enkelin: grand Daughter
 - Schweigertochter: 
+
+- Doch usage
+    - Question should be negative

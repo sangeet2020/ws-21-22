@@ -1,8 +1,8 @@
 # Lecture 13
 - Singular
-  - der - er   - ein  - kein
-  - die - sie  - eine - keine
-  - das - Es   - ein  - kein
+  - der -       er   -  ein  - kein
+  - die/den -   sie  -  eine - keine
+  - das - Es   -ein  - kein
 - Plural
   - die -    sie   -  // - keine
 
