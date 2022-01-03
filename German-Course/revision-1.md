@@ -1,6 +1,14 @@
 # Revision 1
 
-## Sie-Du form
+## Introduction
+```
+Hallo! Ich heisse Sangeet Sagar. Sangeet ist mein Vorname. Sagar ist mein Familienname. Ich bin funfundzwanzeig Jahre alt und ich bin bin am siebenzigten September neunzehnhundert-siebenunneunzig geboren. Ich bin ledig und ich habe kein Kinder.
+Ich bin Student an der UdS. Ich studiere Computerlinguistik.
+
+Ich komme aus Ranchi.  Das legit in Indien. Jetzt lebe ich in Deutchland, in Saarbrucken. Ich wohne in der Dudweiler. Mein Hausnumber ist zweihundert-dreiund-siebzig, Meine Postleitzahl ist 66125. Meine Muttersprache ist Hindi. Ich spreche auch Hindi, Englisch. Iche lerne jetzt Deutsch.  Mein Hobby ist das Schwimmen.
+```
+
+### Sie-Du form
 ```
 Sie form                        Du form
 ---------------------------------------------------
@@ -240,6 +248,7 @@ A: Super, danke. Und wei geht es dir, Sangeet?
 Q: Es geht mir gut, danke.
 ```
 
+
 ### den Steckbrief [the-profile]
 ```
 Vorname:    Sangeet
@@ -472,4 +481,6 @@ Sie             Sie
 - Baruchst du kein Geld.
 - Wir haben jetzt keinen Hunger.
 ```
+
+
 *** Until Lec 12 Done
