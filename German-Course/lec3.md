@@ -62,7 +62,7 @@
     - D = day
     - E = ay
     - F = eff
-    - G = gay
+    - G = gee
     - H = hah
     - I = eeh
     - J = yot
