@@ -85,6 +85,16 @@ sie/Sie wissen
 - **Am**: used with the days of the week and times of the day (morning, afternoon)
 - Exception: in der nicht [only with night, *in* is used]
 - **Um**: used with time (7 AM, 3 PM)
+- **im**: used with months and seasons.
+- **seit**: since, ever, since, for refers to a moment in time. E.g `seit 1823`
+- **nach**- to (used for country or city)
+    - E.g
+    ```
+    Henry fahrt dieses Jahr nach Deutschland.
+    ```
+- **in**: into, in, to (countries with masculine or feminine gender)
+    - in der Turkei.
+    - in den Iran.
 
 ### die Wochentage [Days of the week.]
 ```
@@ -376,4 +386,91 @@ einkaufen -  eingekaft              - fernsehen -   ferngesehen
 [untrenn] bezahlen - bezahlt        - aufstehen  -  aufstanden
 informieren - informiert            - verstehen -   verstanden
 telefonieren - telefoniert          - besprechen    -   besprochen
+```
+
+### Questions
+```
+Q: Hast du gestern gekochkt?
+A: Ja, ich habe gestern gekochkt.
+
+Q: Has du gestern Hausaufgaben gemacht?
+A: Ja, ich habe hausaufgaben gemacht.
+
+Q: Hast du gestern deutsche gelernt?
+A: Yeah, ich habe deutsche gelernt.
+
+Q: hast du gestern mit deine familia telefoniert
+A: Ich habe gestern mit minen eltern telefoniert
+A: Ich habe gestern mit meiner Familie telefoniert.
+
+Q: Hast du gestern gearbeitet?
+A: Ja Ich habe gestern gearbeitet.
+
+Q: Hast du gestern einen film gesehen?
+A: Nein, ich habe gestern keinen Film gesehen.
+
+Q: hast du gestern eingekauft?
+A: Ja, ich habe gestern eingekauft.
+A: nein, ich habe gestern nicht eingekauft.
+
+```
+
+### Irregular verbs| Partizip
+```
+- anfangen [to think]: angefangen                 | - kommen [to come]: gekommen
+- anrufen [to call]: angerufen                    | - konnen [can]: gekonnt
+- bekommen [to come]: bekommen    **              | - lessen [to read]: gelesen
+- beginen [to begin]: begonen                     | - mögen [like]: gemocht
+- bringen [to bring]: gebracht                    | - müsen [to have to]: gemusst
+- denken [to think]:  gedacht                     | - nehmen [to take]: genommen
+- durfen [to be allowed]: gedurft                 | - schlafen [to sleep]: geschlafen
+- einladen [to invite]: eingeladen                | - schrieben [to write]: geschrieben
+- essen [to eat]: gegessen                        | - sehen [to see]: gesehen
+- fahren [to drive]: gefahren                     | - sein [to be]: gewesen
+- finden [to find]: gefunden                      | - singen [to sing]: gesungen
+- fliegen [to fly]: geflogen                      | - sollen [shall]: gesollt
+- geben   [to give]: gegeben                      | - sprechen [to speak]: gesprochen
+-                                                 | - stehen [to stand]: gestanden
+- gehen [to go]: gegangen                         | - treffen [to meet]: getroffen
+- haben [to have]: gehbt                          | - trinken [to drink]: getrunken
+- heißen [to be called]: geheißen                 | - werden [to become]: geworden
+- helfen [to help]: geholfen                      | - wissen [to know]: gewusst
+- kennen [to know]: gekannt                       | - wollen [to want]: gewollt
+```
+
+###  Verb conjugation in the past tense "haben“ und "sein"
+```
+            haben       sein
+------------------------------
+ich         hatte       war
+du          hattest     warst
+er/sie/es   hatte       war
+wir         hatten      waren
+ihr         hattet      wart
+sie         hatten      waren
+```
+
+### Was ist denn hier passiert?
+- Some verbs require aux verb `sein` in the perfekt tense.
+- verbs of motion/location:
+    - fahren, gehen, reisen, fliegen
+    - ankommen, eisteigen
+```
+- Er *ist* nach Deutschland gefahren.
+- Der Zug ist punktlich angekommen.
+
+- Ich *war* auf dem Oktoberfest in Munchen.
+- [**Incorrect**] Ich bin auf dem Oktoberfest in Munchen gewesen.
+```
+```
+- Q: Wann haben Sie das letzte Mal gefeiert? [When was the last time you partied.]
+- A: Ich habe letzete Woche geburtstag gefeiert.
+     Wir haben im restaurant gefeiert. Es hat viel Spass gemacht.
+     Wir haben viel getanzt und gelacht.
+```
+#### Events:
+```
+- Wann? [When]  : gestern | letzte Woche | letzten Monat
+- Wass? [What]  : Geburtstag [birthday] | Hochzeit [Wedding] | Silvester [new year] | Karneval
+- Wo? [Where]   : auf der Strasse | im restaurant | zu Hause
 ```
