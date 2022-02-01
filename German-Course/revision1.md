@@ -164,6 +164,7 @@ skifahren
 
 - Was sind sie/bist du von beruf?
     - Ich bin Student/Schulerin
+    - Ich mache ein Praktikum im DFKI. [De-ef-ka-ee]
     - Ich arbeite als informatik bei X-media
 - Was machen sie/machst du beruflich?
     - Ich mache eine Ausbildung als...
